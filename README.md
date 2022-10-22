@@ -1,4 +1,4 @@
-# python-project-
+# Machine Learning-project-
 import pymysql
 from flask import Flask,render_template,request,redirect,url_for
 db_connection=None
